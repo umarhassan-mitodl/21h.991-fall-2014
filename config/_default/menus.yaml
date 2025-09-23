@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 22f15593-ee8d-8ceb-a068-46017e1a0c18
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 30ee943b-ced5-bffc-7aa8-1853fe1331ed
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights/
+  weight: 20
+- identifier: f3c30597-e98a-7413-ca9f-bcc66290f930
+  name: Engaging Students in Archive-based Research
+  pageRef: /pages/instructor-insights/engaging-students-in-archive-based-research
+  parent: 30ee943b-ced5-bffc-7aa8-1853fe1331ed
+  weight: 30
+- identifier: 61e1fd4a-1e9e-3783-5cc4-8b3cb65e4c71
+  name: Infusing the Course with Multiple Voices
+  pageRef: /pages/instructor-insights/infusing-the-course-with-multiple-voices
+  parent: 30ee943b-ced5-bffc-7aa8-1853fe1331ed
+  weight: 40
+- identifier: 14fa2451-e10b-a6b3-0aba-adfbf955056f
+  name: Teaching Students how to be Scholars
+  pageRef: /pages/instructor-insights/teaching-students-how-to-be-scholars
+  parent: 30ee943b-ced5-bffc-7aa8-1853fe1331ed
+  weight: 50
+- identifier: 27b475ff-e089-aa88-09d8-65a0341aa2a5
+  name: Readings and Discussion Schedule
+  pageRef: /pages/readings-and-discussion-schedule
+  weight: 60
+- identifier: f3dc2223-85bd-d983-1a09-140a7992f68e
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
