@@ -68,4 +68,4 @@ The final paper should be worked on over the duration of the semester with prese
 - Which of those questions do you want to investigate from that archive, or really, which questions interest you, and why?
 - What answers (either preliminary research findings, or historiographical in nature) have you found in it?
 
-Your final paper should be approximately 20–25 pages in length and written with an eye toward meeting the {{% resource_link "165f209c-696b-45c8-84e3-dff44a6ae78b" "First Year Paper" %}} requirement for the {{% resource_link "fdddb2f8-367c-4098-93ea-83a7b3cdc32f" "HASTS" %}} program. It should address all of the above questions in the ways relevant to your particular archive and the literature in which you have embedded it.
+Your final paper should be approximately 20–25 pages in length and written with an eye toward meeting the [First Year Paper](http://web.mit.edu/hasts/graduate/academic.html) requirement for the [HASTS](http://web.mit.edu/hasts/) program. It should address all of the above questions in the ways relevant to your particular archive and the literature in which you have embedded it.

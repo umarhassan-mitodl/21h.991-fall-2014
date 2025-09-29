@@ -3,6 +3,8 @@ content_type: page
 description: This section provides insights and information about the course from
   the instructors.
 draft: false
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -39,7 +41,7 @@ This course examines some of the many ways that contemporary historians interpre
 
 ### Possibilities for Further Study/Careers
 
-This is a required first-year course for all new Ph.D. students in the {{% resource_link "fdddb2f8-367c-4098-93ea-83a7b3cdc32f" "HASTS program" %}}, along with [_21A.750J Social Theory and Analysis_](/courses/21a-750j-social-theory-and-analysis-fall-2011) and _STS.260 Introduction to Science, Technology_. This required first-year trio of coursers reflects the fact that our graduate program is interdisciplinary, spanning across History, Anthropology, and Science, Technology, and Society. Each of these areas of study offers its own separate undergraduate programs and has its own disciplinary norms with which doctoral students need to become familiar. After completing _21H.991 Theories and Methods in the Study of History_, the typical student would then move on to complete the other two required courses, as well as more specialized graduate-level courses offered by one of the three programs.
+This is a required first-year course for all new Ph.D. students in the [HASTS program](http://web.mit.edu/hasts/), along with [_21A.750J Social Theory and Analysis_](/courses/21a-750j-social-theory-and-analysis-fall-2011) and _STS.260 Introduction to Science, Technology_. This required first-year trio of coursers reflects the fact that our graduate program is interdisciplinary, spanning across History, Anthropology, and Science, Technology, and Society. Each of these areas of study offers its own separate undergraduate programs and has its own disciplinary norms with which doctoral students need to become familiar. After completing _21H.991 Theories and Methods in the Study of History_, the typical student would then move on to complete the other two required courses, as well as more specialized graduate-level courses offered by one of the three programs.
 
 {{< anchor "insights" >}}{{< /anchor >}}
 
@@ -109,7 +111,7 @@ During weeks in which we did have a guest historian, the class discussion would 
 
 We also devoted one full class to a discussion of journal writing, and to the diversity of styles and expectations that different kinds of journals require for publication. This was really a class session devoted to helping graduate students develop strategies for advancing their professional careers.
 
-The other class period spent differently was our visit to the {{% resource_link "6502fb55-310d-4163-9c0e-57927204883e" "MIT Library Storage Annex" %}}. We heard from the history research librarian about strategies for finding an archive, and perused the uncatalogued material from the MIT Collection that is currently housed on the top floor of the Annex. I wanted the class to have a sense of what roaming in an archive can feel like—both in its adventitious finds as well as its disappointments—and to have a fuller appreciation for some of the unknown (and in a very real sense, unknowable) treasures of the MIT Collection.
+The other class period spent differently was our visit to the [MIT Library Storage Annex](https://libraries.mit.edu/lsa/). We heard from the history research librarian about strategies for finding an archive, and perused the uncatalogued material from the MIT Collection that is currently housed on the top floor of the Annex. I wanted the class to have a sense of what roaming in an archive can feel like—both in its adventitious finds as well as its disappointments—and to have a fuller appreciation for some of the unknown (and in a very real sense, unknowable) treasures of the MIT Collection.
 
 ### Out of Class
 
